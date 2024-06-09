@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Button } from "./ui/button";
-import { Link, MenuIcon } from "lucide-react";
+import { MenuIcon } from "lucide-react";
+import Link from "next/link";
 
 const Header = () => {
   return (
